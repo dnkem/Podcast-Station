@@ -1,7 +1,4 @@
 Name: Danielle Nkem Ebende
-Student #: 101218592
-Course: COMP 2404 - Fall
-Assignment: #4
 
 List of Files Provided: 
     Controller.cc & Controller.h
