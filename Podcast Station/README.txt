@@ -1,4 +1,4 @@
-Name: Danielle Nkem Ebende
+Name: Danielle Nkem
 
 List of Files Provided: 
     Controller.cc & Controller.h
